@@ -1,6 +1,6 @@
 # Управление шлагбаумом парковки
 
-![image](https://github.com/NeuronsUII/KCK-IT_2/blob/main/Ilya_Saverkin/1.png)
+![image](https://github.com/i-saw/Parking-entrance-management/blob/main/GIF.gif)
 ![image](https://github.com/NeuronsUII/KCK-IT_2/blob/main/Ilya_Saverkin/22.png)
 
 # Разработка приложения "Автоматизация шлагбаума для доступа на паровку"
